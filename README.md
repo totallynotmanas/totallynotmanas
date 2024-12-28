@@ -1,16 +1,45 @@
-## Hi there 👋
+---
 
-<!--
-**totallynotmanas/totallynotmanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I’m **Manas Viswajith**  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m a **Computer Science student** passionate about combining creativity and technology to build meaningful projects. My interests span **IoT**, **physical computing**, and **photography**, and I’m always excited to learn, experiment, and collaborate.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 **About Me**  
+- 📸 **Photographer**: Capturing moments through my lens and showcasing them [here](#).  
+- 🔧 **Tech Enthusiast**: Building cool things, like a smart bike helmet and other IoT projects.  
+- 📝 **Blogger**: Sharing my thoughts and projects on my [Quartz website](#).  
+- 🌱 **Currently Learning**: Advanced Arduino projects, IoT integrations, and full-stack development.  
+
+---
+
+## 💻 **What You'll Find Here**  
+- 🚀 **IoT Projects**: Arduino-based builds, smart devices, and physical computing experiments.  
+- 📚 **Learning Logs**: Documenting my journey through code and hardware.  
+- 📷 **Photography Showcases**: Projects combining visual storytelling and tech.  
+- 🌐 **Web Development Projects**: Exploring creative front-end and back-end ideas.  
+
+---
+
+## 🛠️ **Tech Stack**  
+- **Languages**: Python, JavaScript, C/C++  
+- **Frameworks & Tools**: Arduino, Node.js, React, Obsidian  
+- **Hobbies with Tech**: Experimenting with sensors, circuits, and creative coding  
+
+---
+
+## 📫 **Connect With Me**  
+- 🌐 Website: [My Quartz Blog](totallynotmanas.github.io/totallynotspace)  
+- 📸 Instagram: [@totallynotmanas](instagram.com/totallynotmanas)  
+- 💼 LinkedIn: [Manas Viswajith](https://www.linkedin.com/in/manas-viswajith-7609681b8/)  
+- 💌 Email: [totallynotmanas@gmail.com](totallynotmanas@gmail.com)  
+
+---
+
+## 🚀 **My Goals**  
+- Build impactful IoT solutions.  
+- Combine art and technology in meaningful ways.  
+- Grow as a creator, learner, and collaborator.  
+
+---
