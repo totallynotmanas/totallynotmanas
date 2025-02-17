@@ -33,7 +33,7 @@ Welcome to my GitHub! I’m a **Computer Science student** passionate about comb
 - 🌐 Website: [My Quartz Blog](totallynotmanas.github.io/totallynotspace)  
 - 📸 Instagram: [@totallynotmanas](instagram.com/totallynotmanas)  
 - 💼 LinkedIn: [Manas Viswajith](https://www.linkedin.com/in/manas-viswajith-7609681b8/)  
-- 💌 Email: [totallynotmanas@gmail.com](totallynotmanas@gmail.com)  
+- 💌 Email: [totallynotmanas@gmail.com](totallynotmanas@gmail.com)
 
 ---
 
@@ -43,3 +43,6 @@ Welcome to my GitHub! I’m a **Computer Science student** passionate about comb
 - Grow as a creator, learner, and collaborator.  
 
 ---
+
+![totallynotmanas's Stats](https://github-readme-stats.vercel.app/api?username=totallynotmanas&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![totallynotmanas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=totallynotmanas&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
