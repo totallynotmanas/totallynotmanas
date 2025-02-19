@@ -9,8 +9,8 @@ Welcome to my GitHub! I’m a **Computer Science student** passionate about comb
 ## 🌟 **About Me**  
 - 📸 **Photographer**: Capturing moments through my lens and showcasing them [here](#).  
 - 🔧 **Tech Enthusiast**: Building cool things, like a smart bike helmet and other IoT projects.  
-- 📝 **Blogger**: Sharing my thoughts and projects on my [Quartz website](#).  
-- 🌱 **Currently Learning**: Advanced Arduino projects, IoT integrations, and full-stack development.  
+- 📝 **Blogger**: Sharing my thoughts and projects on my [Quartz website](https://totallynotmanas.github.io/totallynotspace).  
+- 🌱 **Currently Learning**: Advanced Arduino projects, IoT integrations, and full-stack development. 
 
 ---
 
@@ -30,7 +30,7 @@ Welcome to my GitHub! I’m a **Computer Science student** passionate about comb
 ---
 
 ## 📫 **Connect With Me**  
-- 🌐 Website: [My Quartz Blog](totallynotmanas.github.io/totallynotspace)  
+- 🌐 Website: [My Quartz Blog](https://totallynotmanas.github.io/totallynotspace)  
 - 📸 Instagram: [@totallynotmanas](instagram.com/totallynotmanas)  
 - 💼 LinkedIn: [Manas Viswajith](https://www.linkedin.com/in/manas-viswajith-7609681b8/)  
 - 💌 Email: [totallynotmanas@gmail.com](totallynotmanas@gmail.com)
