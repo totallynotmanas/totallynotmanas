@@ -24,7 +24,7 @@ Welcome to my GitHub! I’m a **Computer Science student** passionate about comb
 
 ## 🛠️ **Tech Stack**  
 - **Languages**: Python, JavaScript, C/C++  
-- **Frameworks & Tools**: Arduino, Node.js, React, Obsidian  
+- **Frameworks & Tools**: Arduino, Node.js, React, Obsidian, Astro, Textual  
 - **Hobbies with Tech**: Experimenting with sensors, circuits, and creative coding  
 
 ---
