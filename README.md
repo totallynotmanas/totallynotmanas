@@ -47,4 +47,5 @@ Welcome to my GitHub! I’m a **Computer Science student** passionate about comb
 
 ![totallynotmanas's Stats](https://github-readme-stats.vercel.app/api?username=totallynotmanas&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![totallynotmanas's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=totallynotmanas&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
+[![trophy](https://github-profile-trophy.vercel.app/?username=totallynotmanas&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
